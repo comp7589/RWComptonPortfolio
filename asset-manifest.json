@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/RWComptonPortfolio/static/js/main.b042d83d.chunk.js",
+    "main.js.map": "/RWComptonPortfolio/static/js/main.b042d83d.chunk.js.map",
+    "runtime-main.js": "/RWComptonPortfolio/static/js/runtime-main.8a9a274e.js",
+    "runtime-main.js.map": "/RWComptonPortfolio/static/js/runtime-main.8a9a274e.js.map",
+    "static/js/2.8b7bd329.chunk.js": "/RWComptonPortfolio/static/js/2.8b7bd329.chunk.js",
+    "static/js/2.8b7bd329.chunk.js.map": "/RWComptonPortfolio/static/js/2.8b7bd329.chunk.js.map",
+    "index.html": "/RWComptonPortfolio/index.html",
+    "precache-manifest.9675a881ed7294c0173cb28c2729faba.js": "/RWComptonPortfolio/precache-manifest.9675a881ed7294c0173cb28c2729faba.js",
+    "service-worker.js": "/RWComptonPortfolio/service-worker.js",
+    "static/js/2.8b7bd329.chunk.js.LICENSE.txt": "/RWComptonPortfolio/static/js/2.8b7bd329.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a9a274e.js",
+    "static/js/2.8b7bd329.chunk.js",
+    "static/js/main.b042d83d.chunk.js"
+  ]
+}
